@@ -61,6 +61,14 @@
     font-weight: 400;
 }
 
+.weather-location-feels{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
+    font-weight: 200;
+}
+
 .data-container{
     margin-top: 50px;
     color: white;
